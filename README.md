@@ -1,4 +1,4 @@
-# JavaScript Básico
+# Básico da linguagem C
 
 Esse é um curso de JavaScript básico em pt-br, o curso é online e gratuito, oferecido por pelo Professor Pietro Martins. Abaixo estão informações úteis sobre o curso, bem como links para recursos adicionais.
 
